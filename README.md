@@ -1,3 +1,5 @@
+# This website is my first step to my own website's development and learning about HTML, CSS, javascript (jQuery), servlet and JSP on the way
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/adityasingh11/adityasingh11.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
